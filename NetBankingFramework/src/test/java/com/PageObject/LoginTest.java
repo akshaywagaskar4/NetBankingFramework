@@ -11,7 +11,7 @@ public class LoginTest {
 	
 	@FindBy(name="uid")
 	private WebElement username1;
-	
+	//Demo Github push
 	@FindBy(name="password")
 	private WebElement password;
 	
